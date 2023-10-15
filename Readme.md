@@ -30,3 +30,10 @@ wget https://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz \
 && sudo rm -rf ta-lib/ \
 && python3 -m pip install install ta-lib
 ```
+
+
+## Starting notebooks
+
+```sh
+jupyter notebook notebooks
+```
